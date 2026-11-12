@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "hoanglm187" },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./usage-band",
+      "description": "Always shows the session's token usage, context fill, cost and plan limits above the prompt."
+    }
+  ]
+}
